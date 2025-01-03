@@ -12,6 +12,7 @@
 
 # npx browserslist
 
+# Resolve bug: Set below setting from >0.3% to >0.5%
 >0.3%
 last 2 Chrome versions
 last 1 Firefox version
